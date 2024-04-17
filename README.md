@@ -25,6 +25,11 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/COBOL-1679A7?style=flat-square&logo=cobol&logoColor=white" alt="COBOL">
+  <img src="https://img.shields.io/badge/JCL-00ADEF?style=flat-square&logo=jcl&logoColor=white" alt="JCL">
+  <img src="https://img.shields.io/badge/z/OS-002E59?style=flat-square&logo=ibm&logoColor=white" alt="z/OS">
+  <img src="https://img.shields.io/badge/IMS%20Database-FF6C11?style=flat-square&logo=ibm&logoColor=white" alt="IMS Database">
+  <img src="https://img.shields.io/badge/DB2-054ADA?style=flat-square&logo=db2&logoColor=white" alt="DB2">
 </p>
 
 <!-- About Me Section -->
