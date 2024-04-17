@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thabo Kubae "AKA" Tukson</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thabokubae&label=Profile%20views&color=0e75b6&style=flat" alt="thabokubae" /> </p>
 
