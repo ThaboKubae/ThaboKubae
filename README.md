@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://your_image_url_here" alt="Thabo Kubae">
+  <img src="https://avatars.githubusercontent.com/u/61911414?v=4&size=60" alt="Thabo Kubae">
 </p>
 
 <!-- Title -->
